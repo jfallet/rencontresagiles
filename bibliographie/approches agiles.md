@@ -8,13 +8,11 @@ Une belle façon de découvrir le livre et son auteur : Lire  [la préface de l'
 ![Langue](./drapeaux/France.png "en français" )
 ![Couverture](./couvertures/claude-aubry-livre-scrum.png "Edition 1" ) ![Couverture](./couvertures/Scrum-Claude Aubr edition 3.jpg "Edition 3" )![Couverture](./couvertures/Scrum-Claude Aubr edition 4.jpg "Edition 4" )
 
-4eme de couverture : "Cet ouvrage s'adresse à tous ceux qui sont impliqués dans le développement logiciel, et qui souhaitent s'initier aux méthodes agiles, qu'ils soient chefs de produit, développeurs ou managers.
+**4eme de couverture**: "Cet ouvrage s'adresse à tous ceux qui sont impliqués dans le développement logiciel, et qui souhaitent s'initier aux méthodes agiles, qu'ils soient chefs de produit, développeurs ou managers.
 Ceux qui ont déjà une première expérience de Scrum y trouveront de quoi approfondir leurs connaissances. Claude Aubry […] montre comment organiser le travail de l'équipe dans un backlog pour produire des versions à chaque sprint en suivant un cérémonial qui a fait la preuve de son efficacité. 
 Au-delà de Scrum, ce livre présente les pratiques agiles et donne des pistes pour adapter l’agilité au contexte des organisations. "
 
-**Plus d'informations **
-
-
+**Plus d'informations**
 >[Acheter le livre](http://www.amazon.fr/Scrum-guide-pratique-m%C3%A9thode-populaire/dp/2100738747)
 >[Le blog  de l'auteur](http://www.aubryconseil.com/)
 
@@ -30,8 +28,7 @@ Cet ouvrage s’adresse à tous ceux qui s’intéressent au Kanban: Chef de pro
 L’objectif des systèmes kanban, nés dans l’industrie automobile au Japon dans les années 1950, est d’arriver à équilibrer la production à la demande.
 Aujourd’hui, l’univers du développement logiciel adapte ces concepts pour ses propres besoins, et l’objectif de ce livre est de vous expliquer comment 
 
-**Plus d'informations **
-
+**Plus d'informations**
 >[Le blog  de l'auteur](http://www.morisseauconsulting.com/)
 
 ## "Spécifiez agile - Expression de besoins : la boîte à outils du product owner" par  Thierry Cros
@@ -53,8 +50,7 @@ Vous participez à l'expression de besoins.
 Ce livre s'adresse à vous. C'est un guide, fruit de 12 ans d'accompagnement d'équipes.
 Les Scrum masters et Coaches agiles pourront l'utiliser en tant que ressource support.
 
-**Plus d'informations **
-
+**Plus d'informations**
 >[Le blog  de l'auteur](http://thierrycros.net)
 
 ## "Petit guide de management lean à l'usage des équipes agiles" par un collectif à 10 mains
@@ -71,7 +67,6 @@ Chaque pratique est illustrée d'exemples concrets, et accompagnée d'une checkl
 Alors qu'attendez-vous ? "
 
 **Plus d'informations **
-
 > A télécharger gratuitement sur [le site]( http://www.leanagilecamp.fr/index.html)
 
 
@@ -86,12 +81,10 @@ Trois livres pragmatiques pour Scrum masters, chefs de projets, managers... et l
 
 (*) Revu récement par l'auteur et [disponible sur infoQ](http://blog.crisp.se/2015/06/10/henrikkniberg/2nd-edition-of-scrum-xp-from-the-trenches)
 
-**Plus d'informations **
-
+**Plus d'informations**
 > sur l'[auteur](	http://blog.crisp.se/author/henrikkniberg)
 
 ## "Succeeding with agile" par Mike Cohn
-
 > Proven, 100% Practical Guidance for Making Scrum and Agile Work in Any Organization”
 
 ![Langue](./drapeaux/Anglais.jpg "en anglais" ) 
@@ -107,7 +100,6 @@ Trois livres pragmatiques pour Scrum masters, chefs de projets, managers... et l
 - Les prochaines étapes
 
 **Plus d'informations**
-
 > sur [le livre](http://www.succeedingwithagile.com)
 > sur [l'auteur](https://www.mountaingoatsoftware.com/)
 

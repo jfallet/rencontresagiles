@@ -10,7 +10,7 @@
 
 
 **Plus d'informations**
-> [L'article de blog](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell)
+> Blog crisp:  [L'article](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell)
 > [La version VF ](http://www.agiliste.fr/lagilite-metier-en-2-mots/) traduite par l'Agiliste
 
 

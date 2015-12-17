@@ -13,8 +13,8 @@ Ceux qui ont déjà une première expérience de Scrum y trouveront de quoi appr
 Au-delà de Scrum, ce livre présente les pratiques agiles et donne des pistes pour adapter l’agilité au contexte des organisations. "
 
 **Plus d'informations**
->[Acheter le livre](http://www.amazon.fr/Scrum-guide-pratique-m%C3%A9thode-populaire/dp/2100738747)
->[Le blog  de l'auteur](http://www.aubryconseil.com/)
+>[Acheter le livre](http://www.amazon.fr/Scrum-guide-pratique-m%C3%A9thode-populaire/dp/2100738747)  
+>[Le blog  de l'auteur](http://www.aubryconseil.com/)  
 
 
 ## "Kanban pour l'IT" par  Laurent Morisseau - 2e édition 
@@ -29,7 +29,7 @@ L’objectif des systèmes kanban, nés dans l’industrie automobile au Japon d
 Aujourd’hui, l’univers du développement logiciel adapte ces concepts pour ses propres besoins, et l’objectif de ce livre est de vous expliquer comment 
 
 **Plus d'informations**
->[Le blog  de l'auteur](http://www.morisseauconsulting.com/)
+>[Le blog  de l'auteur](http://www.morisseauconsulting.com/)  
 
 ## "Spécifiez agile - Expression de besoins : la boîte à outils du product owner" par  Thierry Cros
 Lire [la préface de Claude Aubry](http://www.aubryconseil.com/post/Preface-de-Specifiez-agile)
@@ -51,7 +51,7 @@ Ce livre s'adresse à vous. C'est un guide, fruit de 12 ans d'accompagnement d'�
 Les Scrum masters et Coaches agiles pourront l'utiliser en tant que ressource support.
 
 **Plus d'informations**
->[Le blog  de l'auteur](http://thierrycros.net)
+>[Le blog  de l'auteur](http://thierrycros.net)  
 
 ## "Petit guide de management lean à l'usage des équipes agiles" par un collectif à 10 mains
 
@@ -66,8 +66,8 @@ Les Scrum masters et Coaches agiles pourront l'utiliser en tant que ressource su
 Chaque pratique est illustrée d'exemples concrets, et accompagnée d'une checklist pour démarrer du bon pied.
 Alors qu'attendez-vous ? "
 
-**Plus d'informations **
-> A télécharger gratuitement sur [le site]( http://www.leanagilecamp.fr/index.html)
+**Plus d'informations**
+> A télécharger gratuitement sur [le site]( http://www.leanagilecamp.fr/index.html)  
 
 
 ## From the Trenches par Henrik Kniberg
@@ -82,13 +82,13 @@ Trois livres pragmatiques pour Scrum masters, chefs de projets, managers... et l
 (*) Revu récement par l'auteur et [disponible sur infoQ](http://blog.crisp.se/2015/06/10/henrikkniberg/2nd-edition-of-scrum-xp-from-the-trenches)
 
 **Plus d'informations**
-> sur l'[auteur](	http://blog.crisp.se/author/henrikkniberg)
+> sur l'[auteur](	http://blog.crisp.se/author/henrikkniberg)  
 
 ## "Succeeding with agile" par Mike Cohn
 > Proven, 100% Practical Guidance for Making Scrum and Agile Work in Any Organization”
 
-![Langue](./drapeaux/Anglais.jpg "en anglais" ) 
-![Couverture](./couvertures/Succeeding with Agile.jpg) 
+![Langue](./drapeaux/Anglais.jpg "en anglais" )
+![Couverture](./couvertures/Succeeding with Agile.jpg)
 
 "This is the definitive, realistic, actionable guide to starting fast with Scrum and agile–and then succeeding over the long haul. Leading agile consultant and practitioner Mike Cohn presents detailed recommendations, powerful tips, and real-world case studies drawn from his unparalleled experience helping hundreds of software organizations make Scrum and agile work."
 
@@ -100,6 +100,6 @@ Trois livres pragmatiques pour Scrum masters, chefs de projets, managers... et l
 - Les prochaines étapes
 
 **Plus d'informations**
-> sur [le livre](http://www.succeedingwithagile.com)
-> sur [l'auteur](https://www.mountaingoatsoftware.com/)
+>sur [le livre](http://www.succeedingwithagile.com)  
+>sur [l'auteur](https://www.mountaingoatsoftware.com/)  
 

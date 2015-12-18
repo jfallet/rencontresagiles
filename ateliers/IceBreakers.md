@@ -15,9 +15,9 @@
 *Note. Fonctionne si les personnes ont déjà des liens entre eux*
 *Le message :* Nous somes tous liés les uns aux autres
 
-| Public | Durée | Matériel|Préparation
-|--------
-| 5 à 10 | <10 minutes | Pelote de laine | Aucune
+| Public | Durée | Matériel|Préparation |
+|--------|--------|--------|--------|
+| 5 à 10 | <10 minutes | Pelote de laine | Aucune |
 
 ## Le réseau social en papier
 1. Chacun renseigne sa fiche 

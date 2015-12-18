@@ -36,8 +36,10 @@ La version originale scribée
 
 @[The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 **Le résumé en 1 image**
-![](http://static1.squarespace.com/static/52f27f54e4b06e715ce0bf53/52f45d74e4b013e3f940c402/53179979e4b0c6f4c17aea07/1430471645681/)
+![Résumé](http://static1.squarespace.com/static/52f27f54e4b06e715ce0bf53/52f45d74e4b013e3f940c402/53179979e4b0c6f4c17aea07/1430471645681/)
 
 
-
+## Simon Sinek
+### Start with why
+@[La vidéo](https://www.youtube.com/watch?v=sioZd3AxmnE)
 

@@ -1,5 +1,6 @@
 # Rencontres agiles / La bibliothèque
 ![Bandeau](../rencontresagiles.jpg)
+
 Faciliter l'accès aux ressources liées aux approches Agile
 
 Que vais-je trouver ici ?

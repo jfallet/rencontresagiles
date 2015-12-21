@@ -3,9 +3,11 @@
 **Les intentions :**
 - INDIVIDUS/GROUPE : Apprendre à se connaitre et développer la cohésion
 - ENERGIE : Remobiliser les énergies
-- CADRE : Préparer le terrain
+- CADRE : Préparer le terrain, Adopter l'état d'esprit
 
 **Règle d'or :** Terminer un icebreaker tant que les participants s'en amusent.
+
+**Sources :** Internet, Agile Game France, 40 ice breakers, Guide de survie aux réunions ...
 
 ## Web Humain
 1. Les participants doivent former un cercle
@@ -72,7 +74,9 @@
 
 *Mots clés. #emotion*
 
-## L'arbre d'Ostende ou L'arbre à personnage
+## L'arbre d'Ostende ou L'arbre à personnages
+![Arbre à personnage](http://tethwikch.wdfiles.com/local--files/arbre-d-ostende/Ostende%20-%20Arbre)
+
 1. Chacun choisi dans l'arbre la personne qui le représente le plus
 2. Chacun pose une gommette sur le personnage sélectionné et explique pourquoi ?
 
@@ -83,3 +87,64 @@
 | 5 à 20 | 2 + 10 minutes | Un arbre format A3 et plusieurs au format A4 | Aucune |
 
 *Mots clés. #emotion*
+
+## Le speed dating
+1. Les personnes s'installent par duo
+2. Chacun à 4 min pour se présenter
+3. Au bout de 8min on change
+
+| Public | Durée | Matériel| Préparation |
+|--------|--------|--------|--------|
+| - | 4 minutes/participant | Aucune | Organiser la salle |
+
+*Mots clés. #timeboxing*
+
+## Fact or Fiction
+1. Demander à chaque participer de penser à 2 vérités et 1 mensonge
+2. Chacun à son tour, on énnonce les 3 assertions
+3. Le groupe cherche a trouver le mensonge
+
+| Public | Durée | Matériel| Préparation |
+|--------|--------|--------|--------|
+| 1 à 10 | 5 à 15 minutes | Aucune | Aucune |
+
+## M&M's
+
+## Constellation game
+
+## Enigma
+1. Poser une énigme au groupe 
+2. Laisser les membres du groupe cherche la solution
+
+| Public | Durée | Matériel| Préparation |
+|--------|--------|--------|--------|
+| 1 à 20 | 10  à 20 minutes | Aucune | Choisir une énigme |
+
+*Mots clés. #creativite*
+
+## L'alphabet des concepts
+1. Choisir un thème
+2. Distribuer à chaque participant une fiche représentant 1 lettre
+3. Chaque participant à 3-4' pour trouver des mots commencant par cette lettre et en lien avec le thème
+4. Chacun présente son mot et on crèe un nuage de tag avec les mots choisis
+
+**Astuce :** Regrouper les lettres HI - JK - WXYZ
+
+| Public | Durée | Matériel| Préparation |
+|--------|--------|--------|--------|
+| 4 à 20 | 10  minutes | Fiches | Aucune |
+
+*Mots clés. #creativite #etatdesprit*
+
+## LEGO créa
+1. Choisir un animal, un monument, un objet ...
+2. sans communiquer, chaque participant vient a tour de rôle ajouter une piece
+3. On arrête quand a minima chacun a positionné une piece
+4. Recommencer 1 ou 2 fois
+
+| Public | Durée | Matériel| Préparation |
+|--------|--------|--------|--------|
+| 4 à 20 | 5 minutes | LEGO | Aucune |
+
+*Mots clés. #creativite #ouiET #rebond*
+

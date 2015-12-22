@@ -37,7 +37,7 @@
     0 – PREPARATION (1H)
 - Synthétiser les informations produites par le management visuel
 - Relever les points les plus motivants
-- Réfléchir comment obtenir les meilleurs retours
+- Réfléchir comment obtenir les meilleurs retours  
 
 
     I – PLANTER LE DECOR (5-10')
@@ -51,7 +51,7 @@
 	II – COLLECTER LES INFORMATIONS (40-60’)
 - Autour de différents ateliers, collecter les points de vue, les impressions des membres de l'équipe
 - Veiller a ce que chacun prenne la parole
-- Faire émerger les points sur lesquels on va travailler par la suite
+- Faire émerger les points sur lesquels on va travailler par la suite  
 
 
     III – PRODUIRE LES IDEES (20-30')
@@ -59,14 +59,14 @@
   + Améliorer ce qui PEUT et DOIT l'être
   + Arrêter de faire ce qui est du gaspillage
   + Continuer de faire ce qui favorise la création de valeur
-- Veiller à maintenir un haut niveau de créativité
+- Veiller à maintenir un haut niveau de créativité  
 
 
 	IV – DECIDER LES ACTIONS (15-20’)
 - Sélectionner les actions les plus prioritaires dans le contexte du projet
 - Faciliter la prise en charge des actions par une personne volontaire
 - Veiller à faire le bilan des actions précédentes
-- Veiller à planifier du temps pour la réalisation de ses actions
+- Veiller à planifier du temps pour la réalisation de ses actions  
 
 
 	V – CLOTURER LA RETROSPECTIVE (5-10’)
@@ -88,31 +88,31 @@
 - Une ou plusieurs personnes ne parlent pas 
 
 ## Citations
->« Celui qui ne se souvient pas de l'Histoire est condamné à la répéter.» George SANTAYANA
-« Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles. » SENEQUE
-« La vie est un cimetière de lucidités rétrospectives. » Jean-François REVEL
-« Tant que ce qui est appris n'est pas appliqué, il n'y a pas d'apprentissage. » Dave MEIER
-« On peut faire des rétrospectives sans être Agile, mais on ne peut pas être Agile sans faire de rétrospectives » Jean-Claude MERIGNAC
+>« Celui qui ne se souvient pas de l'Histoire est condamné à la répéter.» George SANTAYANA  
+« Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles. » SENEQUE  
+« La vie est un cimetière de lucidités rétrospectives. » Jean-François REVEL  
+« Tant que ce qui est appris n'est pas appliqué, il n'y a pas d'apprentissage. » Dave MEIER  
+« On peut faire des rétrospectives sans être Agile, mais on ne peut pas être Agile sans faire de rétrospectives » Jean-Claude MERIGNAC  
 
 ## Références 
-[Livre] [Agile Retrospective : Making Good Teams Great](http://www.amazon.fr/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
-![Couverture](../../bibliographie/couvertures/AgileRetrospective, Making good teams great.jpg)
+[Livre] [Agile Retrospective : Making Good Teams Great](http://www.amazon.fr/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)  
+![Couverture](../../bibliographie/couvertures/AgileRetrospective, Making good teams great.jpg)  
 Esther DERBY, Diana LARSEN et Ken SCHWABER (The Pragmatic Programmers)
 
-[Livre][ Project Retrospectives : A handbook for Team Reviews](http://www.amazon.fr/Project-Retrospectives-Handbook-Team-Reviews/dp/0932633447)
-![Couverture](../../bibliographie/couvertures/ProjectRetrospective.jpg)
+[Livre][ Project Retrospectives : A handbook for Team Reviews](http://www.amazon.fr/Project-Retrospectives-Handbook-Team-Reviews/dp/0932633447)  
+![Couverture](../../bibliographie/couvertures/ProjectRetrospective.jpg)  
 Norman L. KERTH
 
-[Livre] [Donnez un coup de fouet à vos Rétrospectives Agile](https://leanpub.com/agile-retrospective-kickstarter-fr)
-![Couverture](../../bibliographie/couvertures/Retrospectives - Coup de fouet.png)
+[Livre] [Donnez un coup de fouet à vos Rétrospectives Agile](https://leanpub.com/agile-retrospective-kickstarter-fr)  
+![Couverture](../../bibliographie/couvertures/Retrospectives - Coup de fouet.png)  
 > Construisez plus de 250 ordres du jour qui déchirent avec L'Antisèche de la Rétrospective. 
 
 Alexey KRIVITSKY
 - - -
-[Article] Jean-Claude MERIGNAC : L'Art de la Rétrospective ([première partie](http://goo.gl/MKVgr))
-[Article] Jean-Claude GROSJEAN : [Des chapeaux pour ma rétro](http://goo.gl/W1vBn)
-[Article] Jean-Claude GROSJEAN : [La fleur de Lotus](http://goo.gl/Zhij1)
-[Article] Yves HANOULLE : [Work Retrospective](http://goo.gl/48Q0i) [EN]
-[Article] Yves HANOULLE : [Improve the Demo](http://goo.gl/j29C2) [EN]
+[Article] Jean-Claude MERIGNAC : L'Art de la Rétrospective ([première partie](http://goo.gl/MKVgr))  
+[Article] Jean-Claude GROSJEAN : [Des chapeaux pour ma rétro](http://goo.gl/W1vBn)  
+[Article] Jean-Claude GROSJEAN : [La fleur de Lotus](http://goo.gl/Zhij1)  
+[Article] Yves HANOULLE : [Work Retrospective](http://goo.gl/48Q0i) [EN]  
+[Article] Yves HANOULLE : [Improve the Demo](http://goo.gl/j29C2) [EN]  
 
 

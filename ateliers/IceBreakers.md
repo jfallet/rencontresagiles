@@ -112,6 +112,14 @@
 
 ## Constellation game
 
+## Sparkling Moments
+1. (3') En binome , Le premier décrit un moment pro/perso récent source de satisfaction (même insignifiant)
+2. L'autre note et pose la question "What else ?"
+3. (3') on échange les rôles
+4. (2') Brainstorm silencieux, chacun écrit sur un papier, au vu du moment décrit, 2 ou 3 Qualités/Compétences/Capacités
+5. On échange les papiers
+
+
 ## Enigma
 1. Poser une énigme au groupe 
 2. Laisser les membres du groupe cherche la solution

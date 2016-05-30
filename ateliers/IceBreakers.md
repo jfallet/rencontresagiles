@@ -8,6 +8,7 @@
 **Règle d'or :** Terminer un icebreaker tant que les participants s'en amusent.
 
 **Sources :** Internet, Agile Game France, 40 ice breakers, Guide de survie aux réunions ...
+http://ice-breaker-ideas.com/
 
 ## Web Humain
 1. Les participants doivent former un cercle
